@@ -1,7 +1,7 @@
 # Node.js CRUD example with MSSQL - Express Rest APIs and Sequelize
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,sequelize,sql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,sequelize,express" />
 </p>
 
 For more detail, please visit:
